@@ -1,0 +1,122 @@
+[
+    {
+        "id" : 1,
+        "image" : "/public/SVG/African salad.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 2,
+        "image" : "/public/SVG/amala.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 3,
+        "image" : "/public/SVG/egusi fufu.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 4,
+        "image" : "/public/SVG/fried rice and salad.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 5,
+        "image" : "/public/SVG/jollof rice.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 6,
+        "image" : "/public/SVG/melted cake.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 7,
+        "image" : "/public/SVG/moi moi and fish.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 8,
+        "image" : "/public/SVG/noodles.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 9,
+        "image" : "/public/SVG/nunu.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 10,
+        "image" :"/public/SVG/okazhi soup.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 11,
+        "image" : "/public/SVG/okra soup.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 12,
+        "image" : "/public/SVG/padtet rice.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 13,
+        "image" : "/public/SVG/peppersoup.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 14,
+        "image" : "/public/SVG/porridge yam.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 15,
+        "image" : "/public/SVG/salad and source.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 16,
+        "image" : "/public/SVG/spice fried rice.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 17,
+        "image" : "/public/SVG/spice platain fries.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 18,
+        "image" : "/public/SVG/spiced fruit.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 19,
+        "image" : "/public/SVG/vegetable soup and fufu.jpg",
+        "name" : "",
+        "price" : ""
+    },
+    {
+        "id" : 20,
+        "image" : "/public/SVG/wheat.jpg",
+        "name" : "",
+        "price" : ""
+    }
+]
